@@ -46,3 +46,4 @@ console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 - String concatenation and output
 - Using .length to work with arrays
 
+
