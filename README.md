@@ -18,23 +18,31 @@ A small JavaScript program that:
 
 ## Example Usage
 
-```js
+```js```
 console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89], 37));
 // Output: Class average: 71.7. Your grade: F. You failed the course.
 
 console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 // Output: Class average: 85.4. Your grade: B. You passed the course.
 ## How to run 
-Clone the repository:
+1- Clone the repository:
 
-git clone https://github.com/yourusername/student-message.git
-
-
-Navigate into the folder:
-
-cd student-message
+````git clone https://github.com/yourusername/student-message.git````
 
 
-Run the program with Node.js:
+2- Navigate into the folder:
 
-node index.js
+```cd student-message```
+
+
+3- Run the program with Node.js:
+
+````node index.js````
+
+##  Skills Practiced
+
+- JavaScript functions
+- Loops and conditionals
+- String concatenation and output
+- Using .length to work with arrays
+
