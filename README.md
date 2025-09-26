@@ -18,12 +18,13 @@ A small JavaScript program that:
 
 ## Example Usage
 
-```js```
+```js
 console.log(studentMsg([92, 88, 12, 77, 57, 100, 67, 38, 97, 89], 37));
 // Output: Class average: 71.7. Your grade: F. You failed the course.
 
 console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 // Output: Class average: 85.4. Your grade: B. You passed the course.
+````
 ## How to run 
 1- Clone the repository:
 
@@ -45,6 +46,7 @@ console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 - Loops and conditionals
 - String concatenation and output
 - Using .length to work with arrays
+
 
 
 
