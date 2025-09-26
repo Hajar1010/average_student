@@ -28,17 +28,17 @@ console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 ## How to run 
 1- Clone the repository:
 
-````git clone https://github.com/yourusername/student-message.git````
+````git clone https://github.com/hajar1010/average_student.git````
 
 
 2- Navigate into the folder:
 
-```cd student-message```
+```cd student-avg```
 
 
 3- Run the program with Node.js:
 
-````node index.js````
+````node studentAvr.js````
 
 ##  Skills Practiced
 
@@ -46,6 +46,7 @@ console.log(studentMsg([45, 87, 98, 100, 86, 94, 67, 88, 94, 95], 82));
 - Loops and conditionals
 - String concatenation and output
 - Using .length to work with arrays
+
 
 
 
